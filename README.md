@@ -4,10 +4,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&layout=compact&theme=radical)
 
 <a href="https://github.com/Patrikr7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrikr7&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Patrikr7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrikr7&show_icons=true&theme=radical" height="150em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&layout=compact&theme=radical" height="150em" />
 </a>
 
 <!--
