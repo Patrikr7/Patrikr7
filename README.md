@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=patrikr7&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&layout=compact&theme=radical)
+### Salve, salve, eu sou o Emerson Patrik 😎
 
 <a href="https://github.com/Patrikr7">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrikr7&show_icons=true&theme=radical" height="150em" />
