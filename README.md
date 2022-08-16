@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikr7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&layout=compact&bg_color=COLOR1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikr7&bg_color=COLOR1&layout=compact&bg_color=COLOR1)
 
 <!--
 **Patrikr7/Patrikr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
